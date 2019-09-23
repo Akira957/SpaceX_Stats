@@ -14,6 +14,20 @@ It uses express, a small amount of Graphql and Apollo without mutations, and Rea
 
 This is a reference to the SpaceX API being used to find the Rocket Data.
 
+# Images
+
+This is what the opening page looks like.
+
+![SpaceX](./client/public/images/SpaceX.jpg)
+
+An example of a rocket that failed its launch mission.
+
+![Failed](./client/public/images/Failed.jpg)
+
+One of the many successful space rocket launches.
+
+![Success](./client/public/images/Success.jpg)
+
 # How To Use
 
 When you open the deployed page of the app you will see a huge list of rockets that have been launched for 13 years.
