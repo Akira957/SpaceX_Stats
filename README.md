@@ -18,15 +18,15 @@ This is a reference to the SpaceX API being used to find the Rocket Data.
 
 This is what the opening page looks like.
 
-![SpaceX](./client/public/images/SpaceX.jpg)
+![SpaceX](./public/images/SpaceX.jpg)
 
 An example of a rocket that failed its launch mission.
 
-![Failed](./client/public/images/Failed.jpg)
+![Failed](./public/images/Failed.jpg)
 
 One of the many successful space rocket launches.
 
-![Success](./client/public/images/Success.jpg)
+![Success](./public/images/Success.jpg)
 
 # How To Use
 
